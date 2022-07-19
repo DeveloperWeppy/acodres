@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "932e68ac9d065236b73437f89de92085",
+    "content-hash": "04afd8d3dcd0b0b544a32715a0519e17",
     "packages": [
         {
             "name": "akaunting/module",
@@ -528,7 +528,7 @@
         },
         {
             "name": "codedge/laravel-selfupdater",
-            "version": "dev-master",
+            "version": "dev-main",
             "dist": {
                 "type": "path",
                 "url": "packages/codedge/laravel-selfupdater",
@@ -2212,7 +2212,7 @@
         },
         {
             "name": "joedixon/laravel-translation",
-            "version": "dev-master",
+            "version": "dev-main",
             "dist": {
                 "type": "path",
                 "url": "packages/joedixon/laravel-translation",
@@ -3802,7 +3802,7 @@
         },
         {
             "name": "mobidonia/laravel-dashboard-installer",
-            "version": "dev-master",
+            "version": "dev-main",
             "dist": {
                 "type": "path",
                 "url": "packages/mobidonia/laravel-dashboard-installer",
@@ -12635,8 +12635,9 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "^7.3|^8.0"
+        "php": "^7.3|^8.0",
+        "ext-gd": "*"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.2.0"
 }

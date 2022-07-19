@@ -634,8 +634,8 @@
         },
         {
             "name": "codedge/laravel-selfupdater",
-            "version": "dev-master",
-            "version_normalized": "dev-master",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
             "dist": {
                 "type": "path",
                 "url": "packages/codedge/laravel-selfupdater",
@@ -2860,8 +2860,8 @@
         },
         {
             "name": "joedixon/laravel-translation",
-            "version": "dev-master",
-            "version_normalized": "dev-master",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
             "dist": {
                 "type": "path",
                 "url": "packages/joedixon/laravel-translation",
@@ -4648,8 +4648,8 @@
         },
         {
             "name": "mobidonia/laravel-dashboard-installer",
-            "version": "dev-master",
-            "version_normalized": "dev-master",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
             "dist": {
                 "type": "path",
                 "url": "packages/mobidonia/laravel-dashboard-installer",
